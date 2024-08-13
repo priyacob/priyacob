@@ -1,4 +1,4 @@
-<img align="center" width="300" height="300px" src="C:\Users\PRIYA\OneDrive\Pictures\Camera Roll\WhatsApp Image 2023-01-03 at 7.19.42 PM (1).jpeg" alt="photo" style="border-radius: 50%; background-size: cover; object-fit: cover;">
+<img align="center" width="300" height="300px" src="https://github.com/priyacob/priyacob/blob/main/myp1.jpeg" alt="photo" style="border-radius: 50%; background-size: cover; object-fit: cover;">
 
 <div  align="right" style="display: flex; justify-content: center; position: relative; bottom: 200px; left: 150px; font-size: 24px;">
 
