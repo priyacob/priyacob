@@ -19,7 +19,7 @@
 <a href="https://instagram.com/priyamitra06" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyamitra06" height="30" width="40" /></a>
 </p>
-<hr width="900px">
+<hr width="700px">
 <h3 align="left">Languages and Tools:</h3>
 <p id="skil" align="left">
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -49,11 +49,11 @@
                                                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
                                                     </p>
 
-<hr width="900px">
+<hr width="700px">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyacob&show_icons=true&locale=en&layout=compact" alt="priyacob"  style="width: 400px;"/></p>
-<hr width="900px">
+<hr width="700px">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyacob&show_icons=true&locale=en" alt="priyacob" /></p>
-<hr width="900px">
+<hr width="700px">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyacob&" alt="priyacob" /></p>
 
 </div>
