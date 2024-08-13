@@ -1,4 +1,4 @@
-<img align="center" width="300" height="300px" src="https://github.com/priyacob/priyacob/blob/main/myp1.jpeg" alt="photo" style="border-radius: 50%; background-size: cover; object-fit: cover;">
+<img align="center" width="320" height="400" src="https://github.com/priyacob/priyacob/blob/main/myp1.jpeg" alt="photo" style="border-radius: 50%; background-size: cover; object-fit: cover;">
 
 <div  align="right" style="display: flex; justify-content: center; position: relative; bottom: 200px; left: 150px; font-size: 24px;">
 
@@ -60,15 +60,6 @@
 </div>
 </div>
 
-<style>
-    #skil{
-        width: 700px;
-    }
-    #skil img{
 
-height: 80px;
-width: 100px;
-    }
-</style>
 
    
