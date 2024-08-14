@@ -1,8 +1,6 @@
 
 <div  align="right">
 <div align="center" style="height: 1500px; width: 1000px; background-color: beige; border:2px black;" >
-    <h1 align="center">Hi I'm Priya Mitra</h1>
-    <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyacob&label=Profile%20views&color=0e75b6&style=flat" alt="priyacob" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
