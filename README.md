@@ -1,6 +1,5 @@
 
-<div  align="right" style="display: flex; justify-content: center; position: relative; bottom: 200px; left: 150px; font-size: 24px;">
-
+<div  align="right">
 <div align="center" style="height: 1500px; width: 1000px; background-color: beige; border:2px black;" >
     <h1 align="center">Hi I'm Priya Mitra</h1>
     <h3 align="center">A passionate developer from India</h3>
